@@ -656,9 +656,10 @@
 		<Product type="4353" id="5a31" name="CSZ1 Cellular Shade"/>
 	</Manufacturer>
 	<Manufacturer id="0099" name="GreenWave">
+		<Product type="0002" id="0001" name="Door Lock Keypad"/>
+	</Manufacturer>
+	<Manufacturer id="037b" name="KeyWe">
 		<Product type="0001" id="0002" name="One Gateway"/>
-		<Product type="0002" id="0002" name="PowerNode 1 port" config="greenwave/powernode1.xml"/>
-		<Product type="0003" id="0004" name="PowerNode 6 port" config="greenwave/powernode6.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0208" name="Hank">
 		<Product type="0101" id="0005" name="HKZW-SO01 Smart Plug" config="hank/hkzw-so01-smartplug.xml"/>
