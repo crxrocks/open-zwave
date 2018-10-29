@@ -658,9 +658,6 @@
 	<Manufacturer id="0099" name="GreenWave">
 		<Product type="0002" id="0001" name="Door Lock Keypad"/>
 	</Manufacturer>
-	<Manufacturer id="037b" name="KeyWe">
-		<Product type="0001" id="0002" name="One Gateway"/>
-	</Manufacturer>
 	<Manufacturer id="0208" name="Hank">
 		<Product type="0101" id="0005" name="HKZW-SO01 Smart Plug" config="hank/hkzw-so01-smartplug.xml"/>
 		<Product type="0100" id="000a" name="HKZW-SO05 Smart Plug" config="hank/hkzw-so05-smartplug.xml"/>
@@ -806,6 +803,9 @@
 		<Product type="0003" id="0002" name="PIR Celling Sensor" config="kaipule/ix32.xml"/>
 	</Manufacturer>
 	<Manufacturer id="0091" name="Kamstrup">
+	</Manufacturer>
+	<Manufacturer id="037b" name="KeyWe">
+		<Product type="0001" id="0002" name="One Gateway"/>
 	</Manufacturer>
 	<Manufacturer id="0090" name="Kwikset">
 		<Product type="0001" id="0001" name="Touchpad Electronic Deadbolt" config="kwikset/smartcode.xml"/>
